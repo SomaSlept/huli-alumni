@@ -5,17 +5,17 @@ Welcome to my page, my name is Soma and I'm a fresh alumni of Green Fox Academy.
 ## Hire me
 LinkedIn: https://www.linkedin.com/in/ortutay-soma/
 
-Email: ortutaysoma@gmail.com
+Email: somakozgaz@gmail.com
 
 ## &rarr; [Coding projects](https://github.com/green-fox-academy/definitions/tree/master/project-phase/huli/coding-projects)
-{project-name}: {link-to-repo}
+SaveTheFood: https://github.com/SomaSlept/FreestyleProject
 
 ## &rarr; [Interview prep](https://github.com/green-fox-academy/teaching-materials/tree/master/interview)
-LeetCode: https://leetcode.com/{username}
+LeetCode: https://leetcode.com/Somaaa
 
-Hackerrank: https://www.hackerrank.com/{username}
+Hackerrank: https://www.hackerrank.com/somakozgaz
 
-Codewars: https://www.codewars.com/users/{username}
+Codewars: https://www.codewars.com/users/somaaa
 
 ## &rarr; [Interview tests](https://github.com/green-fox-academy/teaching-materials/tree/master/project-phase/tech-interview-tests)
 Upload your solutions as files into interview-tests/ directory
